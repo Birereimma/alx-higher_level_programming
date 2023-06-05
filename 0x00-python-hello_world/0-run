@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 $PYCODiE
+python3 <<< $PYCODiE
